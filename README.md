@@ -7,3 +7,10 @@ npm install
 ```
 npm run dev
 ```
+
+## Set Enviroments
+
+Create .env file in root directory and add this code to file with your api url
+
+```
+VITE_API_URL={YOUR_API_URL}
